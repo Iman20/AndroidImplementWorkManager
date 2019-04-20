@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Android-implement-workmanager</string>
+    <string name="image_view_poster_movie">Description</string>
+    <string name="title_movie">Judul Film</string>
+    <string name="image_view_vote_average">0.0</string>
+    <string name="_0_0">0.0</string>
+    <string name="release_date">Tanggal Release</string>
+    <string name="release_date_value">Release</string>
+    <string name="overview">Sinopsis</string>
+    <string name="overview_value">Sinposis</string>
+    <!-- Titles -->
+    <string name="blur_title">Select Blur Amount</string>
+
+    <!-- Buttons -->
+    <string name="select_image">Select Image</string>
+    <string name="go">Go</string>
+    <string name="see_file">See File</string>
+
+    <!-- Content descriptions -->
+    <string name="description_image">The image to blur and save.</string>
+
+    <!-- Blur levels -->
+    <string name="blur_lv_1">A little blurred</string>
+    <string name="blur_lv_2">More blurred</string>
+    <string name="blur_lv_3">The most blurred</string>
+    <string name="cancel_work">Cancel Work</string>
+
+    <!-- Messages -->
+    <string name="set_permissions_in_settings">Go to Settings -> Apps and Notifications ->
+        WorkManager Demo -> App Permissions and grant access to Storage.
+    </string>
+    <string name="channel_id">NOTIFICATION_ID</string>
+    <string name="fcm_message_title">Message FCM</string>
+</resources>

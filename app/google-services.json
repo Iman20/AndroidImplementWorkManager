@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718981699320",
+    "firebase_url": "https://appmobilecom-6de5f.firebaseio.com",
+    "project_id": "appmobilecom-6de5f",
+    "storage_bucket": "appmobilecom-6de5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718981699320:android:713b31680eadce00",
+        "android_client_info": {
+          "package_name": "com.widyatama.android_implement_workmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718981699320-bakft887bv1kapi0gvrrbcm6tmq2453a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMljN6aLpHdbK0ns_RsFF0y3ZXH3pzC-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718981699320-bakft887bv1kapi0gvrrbcm6tmq2453a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
